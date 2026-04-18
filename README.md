@@ -10,7 +10,6 @@ Este repositório contém meus estudos em Java, incluindo exercícios, projetos 
 ## 📂 Estrutura
 
 * `src/` → código-fonte
-* `exercicios/` → práticas e desafios
 
 ## 📌 Objetivo
 
